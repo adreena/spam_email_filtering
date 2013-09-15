@@ -47,3 +47,8 @@ predict a label for new data points. So by providing a labeled training set for 
 We also tried to classify image emails by using OCR applications to take the texts out of an image. Unfortunately the available public corpuses include only image parts of
 emails not the texts. For instance in some of the emails there are only a few words like “CLICK HERE”. Obviously this small feature vector is not qualified to train the classifiers.
 A possible solution for this problem can be merging some texts to these images, in order to make a better feature vector.
+
+
+Additional Infor
+---
+<a href="http://en.wikipedia.com/wiki/Markdown">Report</a>
