@@ -49,6 +49,3 @@ emails not the texts. For instance in some of the emails there are only a few wo
 A possible solution for this problem can be merging some texts to these images, in order to make a better feature vector.
 
 
-Additional Infor
----
-<a href="http://en.wikipedia.com/wiki/Markdown">Report</a>
